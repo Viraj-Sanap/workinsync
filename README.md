@@ -1,7 +1,7 @@
 # workinsync
 
 
-###Screenshots:
+## Screenshots:
 ![image](https://user-images.githubusercontent.com/57979852/161267015-783dfc8d-728e-4165-9345-6b60e90ea7b2.png)
 
 ![image](https://user-images.githubusercontent.com/57979852/161267057-4c1de1e7-37bc-497a-a25d-19976f4f6224.png)
